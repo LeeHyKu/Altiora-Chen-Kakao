@@ -1,0 +1,3056 @@
+﻿{
+  "DollMoreinfoPrefix": "https://gfl.zzzzz.kr/doll.php?id=",
+  "DollData": [
+    {
+      "id": "1",
+      "name": "콜트 리볼버",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "050",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1873/pic/pic_m1873.png",
+      "codename": "M1873"
+    },
+    {
+      "id": "2",
+      "name": "M1911",
+      "star": "2",
+      "guntype": "HG",
+      "buildtime": "020",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1911/pic/pic_m1911.png",
+      "codename": "M1911"
+    },
+    {
+      "id": "3",
+      "name": "M9",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "040",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m9/pic/pic_m9.png",
+      "codename": "M9"
+    },
+    {
+      "id": "4",
+      "name": "콜트 파이슨",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/python/pic/pic_python.png",
+      "codename": "Python"
+    },
+    {
+      "id": "5",
+      "name": "나강 리볼버",
+      "star": "2",
+      "guntype": "HG",
+      "buildtime": "020",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1895/pic/pic_m1895.png",
+      "codename": "M1895"
+    },
+    {
+      "id": "6",
+      "name": "토카레프",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "045",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/tt33/pic/pic_tt33.png",
+      "codename": "TT33"
+    },
+    {
+      "id": "7",
+      "name": "스테츠킨",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "055",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/aps/pic/pic_aps.png",
+      "codename": "APS"
+    },
+    {
+      "id": "8",
+      "name": "마카로프",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "040",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pm/pic/pic_pm.png",
+      "codename": "PM"
+    },
+    {
+      "id": "9",
+      "name": "P38",
+      "star": "2",
+      "guntype": "HG",
+      "buildtime": "020",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/p38/pic/pic_p38.png",
+      "codename": "P38"
+    },
+    {
+      "id": "10",
+      "name": "PPK",
+      "star": "2",
+      "guntype": "HG",
+      "buildtime": "022",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ppk/pic/pic_ppk.png",
+      "codename": "PPK"
+    },
+    {
+      "id": "11",
+      "name": "P08",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "030",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/p08/pic/pic_p08.png",
+      "codename": "P08"
+    },
+    {
+      "id": "12",
+      "name": "C96",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "030",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/c96/pic/pic_c96.png",
+      "codename": "C96"
+    },
+    {
+      "id": "13",
+      "name": "92식",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "035",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/92type/pic/pic_92type.png",
+      "codename": "92type"
+    },
+    {
+      "id": "14",
+      "name": "아스트라 리볼버",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "040",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/357/pic/pic_357.png",
+      "codename": "357"
+    },
+    {
+      "id": "15",
+      "name": "글록17",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/glock17/pic/pic_glock17.png",
+      "codename": "Glock17"
+    },
+    {
+      "id": "16",
+      "name": "톰슨",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "230",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1928a1/pic/pic_m1928a1.png",
+      "codename": "M1928A1"
+    },
+    {
+      "id": "17",
+      "name": "M3",
+      "star": "2",
+      "guntype": "SMG",
+      "buildtime": "130",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m3/pic/pic_m3.png",
+      "codename": "M3"
+    },
+    {
+      "id": "18",
+      "name": "MAC-10",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "200",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mac10/pic/pic_mac10.png",
+      "codename": "MAC10"
+    },
+    {
+      "id": "19",
+      "name": "FMG-9",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/fmg9/pic/pic_fmg9.png",
+      "codename": "FMG9"
+    },
+    {
+      "id": "20",
+      "name": "Vector",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "235",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/vector/pic/pic_vector.png",
+      "codename": "Vector"
+    },
+    {
+      "id": "21",
+      "name": "PPSh-41",
+      "star": "2",
+      "guntype": "SMG",
+      "buildtime": "150",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ppsh41/pic/pic_ppsh41.png",
+      "codename": "PPsh41"
+    },
+    {
+      "id": "22",
+      "name": "PPS-43",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "210",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pps43/pic/pic_pps43.png",
+      "codename": "PPS43"
+    },
+    {
+      "id": "23",
+      "name": "PP-90",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "220",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pp90/pic/pic_pp90.png",
+      "codename": "PP90"
+    },
+    {
+      "id": "24",
+      "name": "PP-2000",
+      "star": "2",
+      "guntype": "SMG",
+      "buildtime": "110",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pp2000/pic/pic_pp2000.png",
+      "codename": "PP2000"
+    },
+    {
+      "id": "25",
+      "name": "MP40",
+      "star": "2",
+      "guntype": "SMG",
+      "buildtime": "130",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mp40/pic/pic_mp40.png",
+      "codename": "MP40"
+    },
+    {
+      "id": "26",
+      "name": "MP5",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "220",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mp5/pic/pic_mp5.png",
+      "codename": "MP5"
+    },
+    {
+      "id": "27",
+      "name": "스콜피온",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "200",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/vz61/pic/pic_vz61.png",
+      "codename": "VZ61"
+    },
+    {
+      "id": "28",
+      "name": "MP7",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "218",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mp7/pic/pic_mp7.png",
+      "codename": "MP7"
+    },
+    {
+      "id": "29",
+      "name": "스텐MkⅡ",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "140",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/stenmk2/pic/pic_stenmk2.png",
+      "codename": "StenMK2"
+    },
+    {
+      "id": "31",
+      "name": "베레타 38형",
+      "star": "2",
+      "guntype": "SMG",
+      "buildtime": "130",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mab38/pic/pic_mab38.png",
+      "codename": "MAB38"
+    },
+    {
+      "id": "32",
+      "name": "마이크로 우지",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "140",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/microuzi/pic/pic_microuzi.png",
+      "codename": "MicroUZI"
+    },
+    {
+      "id": "33",
+      "name": "m45",
+      "star": "2",
+      "guntype": "SMG",
+      "buildtime": "120",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m45/pic/pic_m45.png",
+      "codename": "m45"
+    },
+    {
+      "id": "34",
+      "name": "M1 개런드",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "400",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1/pic/pic_m1.png",
+      "codename": "M1"
+    },
+    {
+      "id": "35",
+      "name": "M1A1",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1a1/pic/pic_m1a1.png",
+      "codename": "M1A1"
+    },
+    {
+      "id": "36",
+      "name": "스프링필드",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "425",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1903/pic/pic_m1903.png",
+      "codename": "M1903"
+    },
+    {
+      "id": "37",
+      "name": "M14",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "340",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m14/pic/pic_m14.png",
+      "codename": "M14"
+    },
+    {
+      "id": "38",
+      "name": "M21",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m21/pic/pic_m21.png",
+      "codename": "M21"
+    },
+    {
+      "id": "39",
+      "name": "모신나강",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "410",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1891/pic/pic_m1891.png",
+      "codename": "M1891"
+    },
+    {
+      "id": "40",
+      "name": "SVT-38",
+      "star": "2",
+      "guntype": "RF",
+      "buildtime": "330",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/svt38/pic/pic_svt38.png",
+      "codename": "SVT38"
+    },
+    {
+      "id": "41",
+      "name": "시모노프",
+      "star": "2",
+      "guntype": "RF",
+      "buildtime": "330",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/sks/pic/pic_sks.png",
+      "codename": "SKS"
+    },
+    {
+      "id": "42",
+      "name": "PTRD",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "430",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ptrd/pic/pic_ptrd.png",
+      "codename": "PTRD"
+    },
+    {
+      "id": "43",
+      "name": "SVD",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "415",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/svd/pic/pic_svd.png",
+      "codename": "SVD"
+    },
+    {
+      "id": "44",
+      "name": "SV-98",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "340",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/sv98/pic/pic_sv98.png",
+      "codename": "SV98"
+    },
+    {
+      "id": "46",
+      "name": "Kar98k",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "440",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/98k/pic/pic_98k.png",
+      "codename": "98K"
+    },
+    {
+      "id": "47",
+      "name": "G43",
+      "star": "2",
+      "guntype": "RF",
+      "buildtime": "310",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/g43/pic/pic_g43.png",
+      "codename": "G43"
+    },
+    {
+      "id": "48",
+      "name": "WA2000",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "450",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/wa2000/pic/pic_wa2000.png",
+      "codename": "WA2000"
+    },
+    {
+      "id": "49",
+      "name": "56식 반",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/56typer/pic/pic_56typer.png",
+      "codename": "56typeR"
+    },
+    {
+      "id": "50",
+      "name": "리엔필드",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "500",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mlemk1/pic/pic_mlemk1.png",
+      "codename": "MLEMK1"
+    },
+    {
+      "id": "51",
+      "name": "FN-49",
+      "star": "2",
+      "guntype": "RF",
+      "buildtime": "310",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/fn49/pic/pic_fn49.png",
+      "codename": "FN49"
+    },
+    {
+      "id": "52",
+      "name": "BM59",
+      "star": "2",
+      "guntype": "RF",
+      "buildtime": "320",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/bm59/pic/pic_bm59.png",
+      "codename": "BM59"
+    },
+    {
+      "id": "53",
+      "name": "NTW-20",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "445",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ntw20/pic/pic_ntw20.png",
+      "codename": "NTW20"
+    },
+    {
+      "id": "54",
+      "name": "M16A1",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m16a1/pic/pic_m16a1.png",
+      "codename": "M16A1"
+    },
+    {
+      "id": "55",
+      "name": "M4A1",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m4a1/pic/pic_m4a1.png",
+      "codename": "M4A1"
+    },
+    {
+      "id": "56",
+      "name": "M4 SOPMODII",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m4%20sopmod%20ii/pic/pic_m4%20sopmod%20ii.png",
+      "codename": "M4 SOPMOD II"
+    },
+    {
+      "id": "57",
+      "name": "ST AR-15",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ar15/pic/pic_ar15.png",
+      "codename": "AR15"
+    },
+    {
+      "id": "58",
+      "name": "AK-47",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "320",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ak47/pic/pic_ak47.png",
+      "codename": "AK47"
+    },
+    {
+      "id": "59",
+      "name": "AK-74U",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ak74u/pic/pic_ak74u.png",
+      "codename": "AK74U"
+    },
+    {
+      "id": "60",
+      "name": "AS Val",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "330",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/asval/pic/pic_asval.png",
+      "codename": "ASVAL"
+    },
+    {
+      "id": "61",
+      "name": "StG44",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "300",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/stg44/pic/pic_stg44.png",
+      "codename": "STG44"
+    },
+    {
+      "id": "62",
+      "name": "G41",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "405",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/g41/pic/pic_g41.png",
+      "codename": "G41"
+    },
+    {
+      "id": "63",
+      "name": "G3",
+      "star": "2",
+      "guntype": "AR",
+      "buildtime": "250",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/g3/pic/pic_g3.png",
+      "codename": "G3"
+    },
+    {
+      "id": "64",
+      "name": "G36",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "340",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/g36/pic/pic_g36.png",
+      "codename": "G36"
+    },
+    {
+      "id": "65",
+      "name": "HK416",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "355",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/hk416/pic/pic_hk416.png",
+      "codename": "HK416"
+    },
+    {
+      "id": "66",
+      "name": "56-1식",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "325",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/56-1type/pic/pic_56-1type.png",
+      "codename": "56-1type"
+    },
+    {
+      "id": "68",
+      "name": "L85A1",
+      "star": "2",
+      "guntype": "AR",
+      "buildtime": "250",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/l85a1/pic/pic_l85a1.png",
+      "codename": "L85A1"
+    },
+    {
+      "id": "69",
+      "name": "FAMAS",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "330",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/famas/pic/pic_famas.png",
+      "codename": "FAMAS"
+    },
+    {
+      "id": "70",
+      "name": "FNC",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "320",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/fnfnc/pic/pic_fnfnc.png",
+      "codename": "FNFNC"
+    },
+    {
+      "id": "71",
+      "name": "갈릴",
+      "star": "2",
+      "guntype": "AR",
+      "buildtime": "240",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ar/pic/pic_ar.png",
+      "codename": "AR"
+    },
+    {
+      "id": "72",
+      "name": "TAR-21",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "330",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/tar21/pic/pic_tar21.png",
+      "codename": "TAR21"
+    },
+    {
+      "id": "73",
+      "name": "AUG",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/aug/pic/pic_aug.png",
+      "codename": "AUG"
+    },
+    {
+      "id": "74",
+      "name": "SIG-510",
+      "star": "2",
+      "guntype": "AR",
+      "buildtime": "240",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/sig510/pic/pic_sig510.png",
+      "codename": "SIG510"
+    },
+    {
+      "id": "75",
+      "name": "M1918",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "625",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1918/pic/pic_m1918.png",
+      "codename": "M1918"
+    },
+    {
+      "id": "77",
+      "name": "M2HB ",
+      "star": "3",
+      "guntype": "MG",
+      "buildtime": "610",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m2hb/pic/pic_m2hb.png",
+      "codename": "M2HB"
+    },
+    {
+      "id": "78",
+      "name": "M60",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "610",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m60/pic/pic_m60.png",
+      "codename": "M60"
+    },
+    {
+      "id": "79",
+      "name": "M249 SAW",
+      "star": "3",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m249saw/pic/pic_m249saw.png",
+      "codename": "M249SAW"
+    },
+    {
+      "id": "80",
+      "name": "M1919A4",
+      "star": "3",
+      "guntype": "MG",
+      "buildtime": "540",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1919a4/pic/pic_m1919a4.png",
+      "codename": "M1919A4"
+    },
+    {
+      "id": "81",
+      "name": "LWMMG",
+      "star": "2",
+      "guntype": "MG",
+      "buildtime": "510",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/lwmmg/pic/pic_lwmmg.png",
+      "codename": "LWMMG"
+    },
+    {
+      "id": "82",
+      "name": "DP28",
+      "star": "2",
+      "guntype": "MG",
+      "buildtime": "500",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/dp28/pic/pic_dp28.png",
+      "codename": "DP28"
+    },
+    {
+      "id": "84",
+      "name": "RPD",
+      "star": "3",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/rpd/pic/pic_rpd.png",
+      "codename": "RPD"
+    },
+    {
+      "id": "85",
+      "name": "PK",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "630",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pk/pic/pic_pk.png",
+      "codename": "PK"
+    },
+    {
+      "id": "86",
+      "name": "MG42",
+      "star": "3",
+      "guntype": "MG",
+      "buildtime": "550",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mg42/pic/pic_mg42.png",
+      "codename": "MG42"
+    },
+    {
+      "id": "87",
+      "name": "MG34",
+      "star": "2",
+      "guntype": "MG",
+      "buildtime": "500",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mg34/pic/pic_mg34.png",
+      "codename": "MG34"
+    },
+    {
+      "id": "88",
+      "name": "MG3",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "630",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mg3/pic/pic_mg3.png",
+      "codename": "MG3"
+    },
+    {
+      "id": "89",
+      "name": "브렌",
+      "star": "3",
+      "guntype": "MG",
+      "buildtime": "520",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/brenmk/pic/pic_brenmk.png",
+      "codename": "BrenMK"
+    },
+    {
+      "id": "90",
+      "name": "FNP-9",
+      "star": "2",
+      "guntype": "HG",
+      "buildtime": "025",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/fnp9/pic/pic_fnp9.png",
+      "codename": "FNP9"
+    },
+    {
+      "id": "91",
+      "name": "MP-446",
+      "star": "2",
+      "guntype": "HG",
+      "buildtime": "025",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mp446/pic/pic_mp446.png",
+      "codename": "MP446"
+    },
+    {
+      "id": "92",
+      "name": "Spectre M4",
+      "star": "2",
+      "guntype": "SMG",
+      "buildtime": "120",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/spectrem4/pic/pic_spectrem4.png",
+      "codename": "SpectreM4"
+    },
+    {
+      "id": "93",
+      "name": "IDW",
+      "star": "2",
+      "guntype": "SMG",
+      "buildtime": "110",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/idw/pic/pic_idw.png",
+      "codename": "IDW"
+    },
+    {
+      "id": "94",
+      "name": "64식",
+      "star": "2",
+      "guntype": "SMG",
+      "buildtime": "125",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/64type/pic/pic_64type.png",
+      "codename": "64type"
+    },
+    {
+      "id": "95",
+      "name": "한양조 88식",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "350",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/88type/pic/pic_88type.png",
+      "codename": "88type"
+    },
+    {
+      "id": "96",
+      "name": "그리즐리MkⅤ",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "110",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/grizzly/pic/pic_grizzly.png",
+      "codename": "Grizzly"
+    },
+    {
+      "id": "97",
+      "name": "M950A",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "105",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m950a/pic/pic_m950a.png",
+      "codename": "M950A"
+    },
+    {
+      "id": "98",
+      "name": "SPP-1",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/spp1/pic/pic_spp1.png",
+      "codename": "SPP1"
+    },
+    {
+      "id": "99",
+      "name": "Mk23",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "050",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mk23/pic/pic_mk23.png",
+      "codename": "Mk23"
+    },
+    {
+      "id": "100",
+      "name": "P7",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "055",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/p7/pic/pic_p7.png",
+      "codename": "P7"
+    },
+    {
+      "id": "101",
+      "name": "UMP9",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "215",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ump9/pic/pic_ump9.png",
+      "codename": "UMP9"
+    },
+    {
+      "id": "102",
+      "name": "UMP40",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ump40/pic/pic_ump40.png",
+      "codename": "UMP40"
+    },
+    {
+      "id": "103",
+      "name": "UMP45",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "215",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ump45/pic/pic_ump45.png",
+      "codename": "UMP45"
+    },
+    {
+      "id": "104",
+      "name": "G36C",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "230",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/g36c/pic/pic_g36c.png",
+      "codename": "G36C"
+    },
+    {
+      "id": "105",
+      "name": "OTs-12",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "310",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ots12/pic/pic_ots12.png",
+      "codename": "OTs12"
+    },
+    {
+      "id": "106",
+      "name": "FAL",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "345",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/fnfal/pic/pic_fnfal.png",
+      "codename": "FNFAL"
+    },
+    {
+      "id": "107",
+      "name": "F2000",
+      "star": "2",
+      "guntype": "AR",
+      "buildtime": "245",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/f2000/pic/pic_f2000.png",
+      "codename": "F2000"
+    },
+    {
+      "id": "108",
+      "name": "CZ-805",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/cz805/pic/pic_cz805.png",
+      "codename": "CZ805"
+    },
+    {
+      "id": "109",
+      "name": "MG5",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "645",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mg5/pic/pic_mg5.png",
+      "codename": "MG5"
+    },
+    {
+      "id": "110",
+      "name": "FG42",
+      "star": "2",
+      "guntype": "MG",
+      "buildtime": "450",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/fg42/pic/pic_fg42.png",
+      "codename": "FG42"
+    },
+    {
+      "id": "111",
+      "name": "AAT-52",
+      "star": "2",
+      "guntype": "MG",
+      "buildtime": "450",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/aat52/pic/pic_aat52.png",
+      "codename": "AAT52"
+    },
+    {
+      "id": "112",
+      "name": "네게브",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "635",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/negev/pic/pic_negev.png",
+      "codename": "NEGEV"
+    },
+    {
+      "id": "113",
+      "name": "세르듀코프",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/sps/pic/pic_sps.png",
+      "codename": "SPS"
+    },
+    {
+      "id": "114",
+      "name": "웰로드MkⅡ",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "100",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/welrod/pic/pic_welrod.png",
+      "codename": "Welrod"
+    },
+    {
+      "id": "115",
+      "name": "수오미",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "225",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/kp31/pic/pic_kp31.png",
+      "codename": "KP31"
+    },
+    {
+      "id": "116",
+      "name": "Z-62",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "205",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/z62/pic/pic_z62.png",
+      "codename": "Z62"
+    },
+    {
+      "id": "117",
+      "name": "PSG-1",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "420",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/psg1/pic/pic_psg1.png",
+      "codename": "PSG1"
+    },
+    {
+      "id": "118",
+      "name": "9A-91",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "335",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/9a91/pic/pic_9a91.png",
+      "codename": "9A91"
+    },
+    {
+      "id": "119",
+      "name": "OTs-14",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ots14/pic/pic_ots14.png",
+      "codename": "OTs14"
+    },
+    {
+      "id": "120",
+      "name": "ARX-160",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "315",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/arx160/pic/pic_arx160.png",
+      "codename": "ARX160"
+    },
+    {
+      "id": "121",
+      "name": "Mk48",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "620",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mk48/pic/pic_mk48.png",
+      "codename": "Mk48"
+    },
+    {
+      "id": "122",
+      "name": "G11",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "404",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/g11/pic/pic_g11.png",
+      "codename": "G11"
+    },
+    {
+      "id": "123",
+      "name": "P99",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "035",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/p99/pic/pic_p99.png",
+      "codename": "P99"
+    },
+    {
+      "id": "124",
+      "name": "Super SASS",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/supersass/pic/pic_supersass.png",
+      "codename": "SuperSASS"
+    },
+    {
+      "id": "125",
+      "name": "MG4",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "640",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mg4/pic/pic_mg4.png",
+      "codename": "MG4"
+    },
+    {
+      "id": "126",
+      "name": "NZ75",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "105",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/nz75/pic/pic_nz75.png",
+      "codename": "NZ75"
+    },
+    {
+      "id": "127",
+      "name": "79식",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "235",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/79type/pic/pic_79type.png",
+      "codename": "79type"
+    },
+    {
+      "id": "128",
+      "name": "M99",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "455",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m99/pic/pic_m99.png",
+      "codename": "M99"
+    },
+    {
+      "id": "129",
+      "name": "95식",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "350",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/95type/pic/pic_95type.png",
+      "codename": "95type"
+    },
+    {
+      "id": "130",
+      "name": "97식",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "350",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/97type/pic/pic_97type.png",
+      "codename": "97type"
+    },
+    {
+      "id": "131",
+      "name": "EVO 3",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/evo3/pic/pic_evo3.png",
+      "codename": "EVO3"
+    },
+    {
+      "id": "132",
+      "name": "59식",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/59type/pic/pic_59type.png",
+      "codename": "59type"
+    },
+    {
+      "id": "133",
+      "name": "63식",
+      "star": "2",
+      "guntype": "AR",
+      "buildtime": "245",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/63type/pic/pic_63type.png",
+      "codename": "63type"
+    },
+    {
+      "id": "134",
+      "name": "AR70",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ar70/pic/pic_ar70.png",
+      "codename": "AR70"
+    },
+    {
+      "id": "135",
+      "name": "SR-3MP",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "233",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/sr3mp/pic/pic_sr3mp.png",
+      "codename": "SR3MP"
+    },
+    {
+      "id": "136",
+      "name": "PP-19",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pp19/pic/pic_pp19.png",
+      "codename": "PP19"
+    },
+    {
+      "id": "137",
+      "name": "PP-19-01",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "218",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pp1901/pic/pic_pp1901.png",
+      "codename": "PP1901"
+    },
+    {
+      "id": "138",
+      "name": "6P62",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/6p62/pic/pic_6p62.png",
+      "codename": "6P62"
+    },
+    {
+      "id": "139",
+      "name": "Bren Ten",
+      "star": "2",
+      "guntype": "HG",
+      "buildtime": "028",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/brenten/pic/pic_brenten.png",
+      "codename": "BrenTen"
+    },
+    {
+      "id": "140",
+      "name": "PSM",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/psm/pic/pic_psm.png",
+      "codename": "PSM"
+    },
+    {
+      "id": "141",
+      "name": "USP Compact",
+      "star": "2",
+      "guntype": "HG",
+      "buildtime": "028",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/uspcompact/pic/pic_uspcompact.png",
+      "codename": "USPCompact"
+    },
+    {
+      "id": "142",
+      "name": "Five-seveN",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/fn57/pic/pic_fn57.png",
+      "codename": "FN57"
+    },
+    {
+      "id": "143",
+      "name": "RO635",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ro635/pic/pic_ro635.png",
+      "codename": "RO635"
+    },
+    {
+      "id": "144",
+      "name": "MT-9",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mt9/pic/pic_mt9.png",
+      "codename": "MT9"
+    },
+    {
+      "id": "145",
+      "name": "OTs-44",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "350",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/oc44/pic/pic_oc44.png",
+      "codename": "OC44"
+    },
+    {
+      "id": "146",
+      "name": "G28",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "420",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/g28/pic/pic_g28.png",
+      "codename": "G28"
+    },
+    {
+      "id": "147",
+      "name": "SSG 69",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ssg69/pic/pic_ssg69.png",
+      "codename": "SSG69"
+    },
+    {
+      "id": "148",
+      "name": "IWS 2000",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "452",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/iws2000/pic/pic_iws2000.png",
+      "codename": "IWS2000"
+    },
+    {
+      "id": "149",
+      "name": "AEK-999",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "620",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/aek999/pic/pic_aek999.png",
+      "codename": "AEK999"
+    },
+    {
+      "id": "150",
+      "name": "시프카",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "218",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/shipka/pic/pic_shipka.png",
+      "codename": "Shipka"
+    },
+    {
+      "id": "151",
+      "name": "M1887",
+      "star": "5",
+      "guntype": "SG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1887/pic/pic_m1887.png",
+      "codename": "M1887"
+    },
+    {
+      "id": "152",
+      "name": "M1897",
+      "star": "3",
+      "guntype": "SG",
+      "buildtime": "730",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1897/pic/pic_m1897.png",
+      "codename": "M1897"
+    },
+    {
+      "id": "153",
+      "name": "M37",
+      "star": "4",
+      "guntype": "SG",
+      "buildtime": "745",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ithaca37/pic/pic_ithaca37.png",
+      "codename": "Ithaca37"
+    },
+    {
+      "id": "154",
+      "name": "M500",
+      "star": "3",
+      "guntype": "SG",
+      "buildtime": "720",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m500/pic/pic_m500.png",
+      "codename": "M500"
+    },
+    {
+      "id": "155",
+      "name": "M590",
+      "star": "4",
+      "guntype": "SG",
+      "buildtime": "740",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m590/pic/pic_m590.png",
+      "codename": "M590"
+    },
+    {
+      "id": "156",
+      "name": "Super-Shorty",
+      "star": "4",
+      "guntype": "SG",
+      "buildtime": "750",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/supershorty/pic/pic_supershorty.png",
+      "codename": "SuperShorty"
+    },
+    {
+      "id": "157",
+      "name": "KSG",
+      "star": "5",
+      "guntype": "SG",
+      "buildtime": "800",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ksg/pic/pic_ksg.png",
+      "codename": "KSG"
+    },
+    {
+      "id": "158",
+      "name": "KS-23",
+      "star": "3",
+      "guntype": "SG",
+      "buildtime": "725",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ks23/pic/pic_ks23.png",
+      "codename": "KS23"
+    },
+    {
+      "id": "159",
+      "name": "RMB-93",
+      "star": "3",
+      "guntype": "SG",
+      "buildtime": "730",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/rmb93/pic/pic_rmb93.png",
+      "codename": "RMB93"
+    },
+    {
+      "id": "160",
+      "name": "Saiga-12",
+      "star": "5",
+      "guntype": "SG",
+      "buildtime": "805",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/saiga12/pic/pic_saiga12.png",
+      "codename": "Saiga12"
+    },
+    {
+      "id": "161",
+      "name": "97식 산탄총",
+      "star": "4",
+      "guntype": "SG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/97types/pic/pic_97types.png",
+      "codename": "97typeS"
+    },
+    {
+      "id": "162",
+      "name": "SPAS-12",
+      "star": "4",
+      "guntype": "SG",
+      "buildtime": "740",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/spas12/pic/pic_spas12.png",
+      "codename": "SPAS12"
+    },
+    {
+      "id": "163",
+      "name": "AA-12",
+      "star": "5",
+      "guntype": "SG",
+      "buildtime": "812",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/aa12/pic/pic_aa12.png",
+      "codename": "AA12"
+    },
+    {
+      "id": "164",
+      "name": "FP-6",
+      "star": "5",
+      "guntype": "SG",
+      "buildtime": "806",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/fp6/pic/pic_fp6.png",
+      "codename": "FP6"
+    },
+    {
+      "id": "165",
+      "name": "M1014",
+      "star": "4",
+      "guntype": "SG",
+      "buildtime": "714",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1014/pic/pic_m1014.png",
+      "codename": "M1014"
+    },
+    {
+      "id": "166",
+      "name": "CZ75",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/cz75/pic/pic_cz75.png",
+      "codename": "CZ75"
+    },
+    {
+      "id": "167",
+      "name": "HK45",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/hk45/pic/pic_hk45.png",
+      "codename": "HK45"
+    },
+    {
+      "id": "168",
+      "name": "Spitfire",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "052",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/spitfire/pic/pic_spitfire.png",
+      "codename": "Spitfire"
+    },
+    {
+      "id": "169",
+      "name": "SCW",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/coltscw/pic/pic_coltscw.png",
+      "codename": "ColtSCW"
+    },
+    {
+      "id": "170",
+      "name": "ASh-12.7",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ash127/pic/pic_ash127.png",
+      "codename": "Ash127"
+    },
+    {
+      "id": "171",
+      "name": "리베롤",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "340",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ribeyrolles/pic/pic_ribeyrolles.png",
+      "codename": "Ribeyrolles"
+    },
+    {
+      "id": "172",
+      "name": "RFB",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "358",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/rfb/pic/pic_rfb.png",
+      "codename": "RFB"
+    },
+    {
+      "id": "173",
+      "name": "PKP",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "650",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pkp/pic/pic_pkp.png",
+      "codename": "PKP"
+    },
+    {
+      "id": "174",
+      "name": "81식 카빈",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/81typer/pic/pic_81typer.png",
+      "codename": "81typeR"
+    },
+    {
+      "id": "175",
+      "name": "ART556",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/art556/pic/pic_art556.png",
+      "codename": "ART556"
+    },
+    {
+      "id": "176",
+      "name": "TMP",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/tmp/pic/pic_tmp.png",
+      "codename": "TMP"
+    },
+    {
+      "id": "177",
+      "name": "KLIN",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/klin/pic/pic_klin.png",
+      "codename": "KLIN"
+    },
+    {
+      "id": "178",
+      "name": "F1",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "150",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/f1/pic/pic_f1.png",
+      "codename": "F1"
+    },
+    {
+      "id": "179",
+      "name": "DSR-50",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/dsr50/pic/pic_dsr50.png",
+      "codename": "DSR50"
+    },
+    {
+      "id": "180",
+      "name": "PzB39",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "430",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pzb39/pic/pic_pzb39.png",
+      "codename": "PzB39"
+    },
+    {
+      "id": "181",
+      "name": "T91",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "348",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/t91/pic/pic_t91.png",
+      "codename": "T91"
+    },
+    {
+      "id": "182",
+      "name": "wz.29",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/wz29/pic/pic_wz29.png",
+      "codename": "wz29"
+    },
+    {
+      "id": "183",
+      "name": "컨텐더",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "102",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/contender/pic/pic_contender.png",
+      "codename": "Contender"
+    },
+    {
+      "id": "184",
+      "name": "T-5000",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "410",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/t5000/pic/pic_t5000.png",
+      "codename": "T5000"
+    },
+    {
+      "id": "185",
+      "name": "아멜리",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "625",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ameli/pic/pic_ameli.png",
+      "codename": "Ameli"
+    },
+    {
+      "id": "186",
+      "name": "P226",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/p226/pic/pic_p226.png",
+      "codename": "P226"
+    },
+    {
+      "id": "187",
+      "name": "Ak 5",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ak5/pic/pic_ak5.png",
+      "codename": "Ak5"
+    },
+    {
+      "id": "188",
+      "name": "S.A.T.8",
+      "star": "5",
+      "guntype": "SG",
+      "buildtime": "810",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/sat8/pic/pic_sat8.png",
+      "codename": "SAT8"
+    },
+    {
+      "id": "189",
+      "name": "USAS-12",
+      "star": "4",
+      "guntype": "SG",
+      "buildtime": "755",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/usas12/pic/pic_usas12.png",
+      "codename": "USAS12"
+    },
+    {
+      "id": "190",
+      "name": "NS2000",
+      "star": "3",
+      "guntype": "SG",
+      "buildtime": "715",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ns2000/pic/pic_ns2000.png",
+      "codename": "NS2000"
+    },
+    {
+      "id": "191",
+      "name": "M12",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m12/pic/pic_m12.png",
+      "codename": "M12"
+    },
+    {
+      "id": "192",
+      "name": "JS05",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/js-127/pic/pic_js-127.png",
+      "codename": "JS-127"
+    },
+    {
+      "id": "193",
+      "name": "T65",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/t65/pic/pic_t65.png",
+      "codename": "T65"
+    },
+    {
+      "id": "194",
+      "name": "K2",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "352",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/k2/pic/pic_k2.png",
+      "codename": "K2"
+    },
+    {
+      "id": "195",
+      "name": "HK23",
+      "star": "3",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/hk23/pic/pic_hk23.png",
+      "codename": "HK23"
+    },
+    {
+      "id": "196",
+      "name": "Zas M21",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "405",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/zastavam21/pic/pic_zastavam21.png",
+      "codename": "ZastavaM21"
+    },
+    {
+      "id": "197",
+      "name": "카르카노M1891",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "438",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/carcano1891/pic/pic_carcano1891.png",
+      "codename": "Carcano1891"
+    },
+    {
+      "id": "198",
+      "name": "카르카노M91/38",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "442",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/carcano1938/pic/pic_carcano1938.png",
+      "codename": "Carcano1938"
+    },
+    {
+      "id": "199",
+      "name": "80식",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "615",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/80type/pic/pic_80type.png",
+      "codename": "80type"
+    },
+    {
+      "id": "200",
+      "name": "XM3",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/xm3/pic/pic_xm3.png",
+      "codename": "xm3"
+    },
+    {
+      "id": "201",
+      "name": "게파드 M1",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/gepardm1/pic/pic_gepardm1.png",
+      "codename": "GepardM1"
+    },
+    {
+      "id": "202",
+      "name": "썬더",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/thunder50/pic/pic_thunder50.png",
+      "codename": "Thunder50"
+    },
+    {
+      "id": "203",
+      "name": "허니뱃저",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pdw/pic/pic_pdw.png",
+      "codename": "PDW"
+    },
+    {
+      "id": "204",
+      "name": "발리스타",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ballista/pic/pic_ballista.png",
+      "codename": "Ballista"
+    },
+    {
+      "id": "205",
+      "name": "AN-94",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "409",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/an94/pic/pic_an94.png",
+      "codename": "AN94"
+    },
+    {
+      "id": "206",
+      "name": "AK-12",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "412",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ak12/pic/pic_ak12.png",
+      "codename": "AK12"
+    },
+    {
+      "id": "207",
+      "name": "CZ2000",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/cz2000/pic/pic_cz2000.png",
+      "codename": "CZ2000"
+    },
+    {
+      "id": "208",
+      "name": "HK21",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/hk21/pic/pic_hk21.png",
+      "codename": "HK21"
+    },
+    {
+      "id": "209",
+      "name": "OTs-39",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ots39/pic/pic_ots39.png",
+      "codename": "OTs39"
+    },
+    {
+      "id": "210",
+      "name": "CZ52",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/cz52/pic/pic_cz52.png",
+      "codename": "CZ52"
+    },
+    {
+      "id": "211",
+      "name": "SRS",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/dtasrs/pic/pic_dtasrs.png",
+      "codename": "DTASRS"
+    },
+    {
+      "id": "212",
+      "name": "K5",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "053",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/k5/pic/pic_k5.png",
+      "codename": "K5"
+    },
+    {
+      "id": "213",
+      "name": "C-MS",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "228",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/cbjms/pic/pic_cbjms.png",
+      "codename": "CBJMS"
+    },
+    {
+      "id": "214",
+      "name": "ADS",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "355",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ads/pic/pic_ads.png",
+      "codename": "ADS"
+    },
+    {
+      "id": "215",
+      "name": "MDR",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "353",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mdr/pic/pic_mdr.png",
+      "codename": "MDR"
+    },
+    {
+      "id": "216",
+      "name": "XM8",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "325",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/xm8/pic/pic_xm8.png",
+      "codename": "XM8"
+    },
+    {
+      "id": "217",
+      "name": "SM-1",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/hezism1/pic/pic_hezism1.png",
+      "codename": "HEZISM1"
+    },
+    {
+      "id": "218",
+      "name": "T77",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/t77/pic/pic_t77.png",
+      "codename": "T77"
+    },
+    {
+      "id": "220",
+      "name": "MP-443",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mp443/pic/pic_mp443.png",
+      "codename": "MP443"
+    },
+    {
+      "id": "221",
+      "name": "GSh-18",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/gsh18/pic/pic_gsh18.png",
+      "codename": "GSH18"
+    },
+    {
+      "id": "222",
+      "name": "TAC-50",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/tac50/pic/pic_tac50.png",
+      "codename": "TAC50"
+    },
+    {
+      "id": "223",
+      "name": "Model L",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/cetme556/pic/pic_cetme556.png",
+      "codename": "CETME556"
+    },
+    {
+      "id": "224",
+      "name": "PM-06",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pm06/pic/pic_pm06.png",
+      "codename": "PM06"
+    },
+    {
+      "id": "225",
+      "name": "Cx4 스톰",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/cx4storm/pic/pic_cx4storm.png",
+      "codename": "Cx4Storm"
+    },
+    {
+      "id": "226",
+      "name": "Mk 12",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mk12/pic/pic_mk12.png",
+      "codename": "Mk12"
+    },
+    {
+      "id": "227",
+      "name": "A-91",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/a91/pic/pic_a91.png",
+      "codename": "A91"
+    },
+    {
+      "id": "228",
+      "name": "100식",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "219",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/type100/pic/pic_type100.png",
+      "codename": "Type100"
+    },
+    {
+      "id": "229",
+      "name": "M870",
+      "star": "5",
+      "guntype": "SG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m870p/pic/pic_m870p.png",
+      "codename": "M870P"
+    },
+    {
+      "id": "230",
+      "name": "OBR",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/obr/pic/pic_obr.png",
+      "codename": "OBR"
+    },
+    {
+      "id": "231",
+      "name": "M82A1",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m82a1/pic/pic_m82a1.png",
+      "codename": "M82A1"
+    },
+    {
+      "id": "232",
+      "name": "MP-448",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mp448/pic/pic_mp448.png",
+      "codename": "MP448"
+    },
+    {
+      "id": "233",
+      "name": "Px4 스톰",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "104",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/px4storm/pic/pic_px4storm.png",
+      "codename": "Px4Storm"
+    },
+    {
+      "id": "234",
+      "name": "JS 9",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/js9mm/pic/pic_js9mm.png",
+      "codename": "JS9mm"
+    },
+    {
+      "id": "235",
+      "name": "SPR A3G",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "415",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/fnspr/pic/pic_fnspr.png",
+      "codename": "FNSPR"
+    },
+    {
+      "id": "236",
+      "name": "K11",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "411",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/k11/pic/pic_k11.png",
+      "codename": "K11"
+    },
+    {
+      "id": "237",
+      "name": "SAR-21",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "325",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/sar21/pic/pic_sar21.png",
+      "codename": "SAR21"
+    },
+    {
+      "id": "238",
+      "name": "88식",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "628",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/type88/pic/pic_type88.png",
+      "codename": "Type88"
+    },
+    {
+      "id": "239",
+      "name": "03식",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/type03/pic/pic_type03.png",
+      "codename": "Type03"
+    },
+    {
+      "id": "240",
+      "name": "Mk46",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mk46/pic/pic_mk46.png",
+      "codename": "Mk46"
+    },
+    {
+      "id": "241",
+      "name": "RT-20",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/rt20/pic/pic_rt20.png",
+      "codename": "RT20"
+    },
+    {
+      "id": "242",
+      "name": "P22",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/p22/pic/pic_p22.png",
+      "codename": "P22"
+    },
+    {
+      "id": "243",
+      "name": "64식 소총",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "406",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/type64-ar/pic/pic_type64-ar.png",
+      "codename": "Type64-AR"
+    },
+    {
+      "id": "244",
+      "name": "TEC-9",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/tec9/pic/pic_tec9.png",
+      "codename": "TEC9"
+    },
+    {
+      "id": "245",
+      "name": "P90",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "229",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/p90/pic/pic_p90.png",
+      "codename": "P90"
+    },
+    {
+      "id": "247",
+      "name": "K31",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "415",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/k31/pic/pic_k31.png",
+      "codename": "K31"
+    },
+    {
+      "id": "248",
+      "name": "제리코",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "049",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/jericho/pic/pic_jericho.png",
+      "codename": "Jericho"
+    },
+    {
+      "id": "249",
+      "name": "62식",
+      "star": "3",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/type62/pic/pic_type62.png",
+      "codename": "Type62"
+    },
+    {
+      "id": "250",
+      "name": "HS2000",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/hs2000/pic/pic_hs2000.png",
+      "codename": "HS2000"
+    },
+    {
+      "id": "251",
+      "name": "X95",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/x95/pic/pic_x95.png",
+      "codename": "X95"
+    },
+    {
+      "id": "252",
+      "name": "KSVK",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ksvk/pic/pic_ksvk.png",
+      "codename": "KSVK"
+    },
+    {
+      "id": "253",
+      "name": "루이스",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/lewis/pic/pic_lewis.png",
+      "codename": "Lewis"
+    },
+    {
+      "id": "254",
+      "name": "UKM-2000",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ukm2000/pic/pic_ukm2000.png",
+      "codename": "UKM2000"
+    },
+    {
+      "id": "255",
+      "name": "스카웃",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/scout/pic/pic_scout.png",
+      "codename": "scout"
+    },
+    {
+      "id": "256",
+      "name": "팔콘",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/falcon/pic/pic_falcon.png",
+      "codename": "Falcon"
+    },
+    {
+      "id": "257",
+      "name": "M200",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "432",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m200/pic/pic_m200.png",
+      "codename": "M200"
+    },
+    {
+      "id": "258",
+      "name": "마갈",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/magal/pic/pic_magal.png",
+      "codename": "Magal"
+    },
+    {
+      "id": "259",
+      "name": "PM-9",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pm9/pic/pic_pm9.png",
+      "codename": "PM9"
+    },
+    {
+      "id": "260",
+      "name": "PA-15",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "115",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/pa15/pic/pic_pa15.png",
+      "codename": "PA15"
+    },
+    {
+      "id": "261",
+      "name": "QBU-88",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "448",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/qbu88/pic/pic_qbu88.png",
+      "codename": "QBU88"
+    },
+    {
+      "id": "262",
+      "name": "EM-2",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "335",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/em2/pic/pic_em2.png",
+      "codename": "EM2"
+    },
+    {
+      "id": "263",
+      "name": "MG36",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "636",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mg36/pic/pic_mg36.png",
+      "codename": "MG36"
+    },
+    {
+      "id": "264",
+      "name": "쇼샤",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "625",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/chauchatm1915/pic/pic_chauchatm1915.png",
+      "codename": "ChauchatM1915"
+    },
+    {
+      "id": "265",
+      "name": "HK33",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/hk33/pic/pic_hk33.png",
+      "codename": "HK33"
+    },
+    {
+      "id": "266",
+      "name": "R93",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/r93/pic/pic_r93.png",
+      "codename": "R93"
+    },
+    {
+      "id": "267",
+      "name": "MP41",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mp41/pic/pic_mp41.png",
+      "codename": "MP41"
+    },
+    {
+      "id": "268",
+      "name": "T-CMS",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/tcms/pic/pic_tcms.png",
+      "codename": "TCMS"
+    },
+    {
+      "id": "269",
+      "name": "P30",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "050",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/p30/pic/pic_p30.png",
+      "codename": "P30"
+    },
+    {
+      "id": "270",
+      "name": "4식",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "404",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/4type/pic/pic_4type.png",
+      "codename": "4type"
+    },
+    {
+      "id": "271",
+      "name": "K3",
+      "star": "3",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/k3/pic/pic_k3.png",
+      "codename": "K3"
+    },
+    {
+      "id": "272",
+      "name": "데저트 이글",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/deserteagle/pic/pic_deserteagle.png",
+      "codename": "DesertEagle"
+    },
+    {
+      "id": "273",
+      "name": "SSG3000",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ssg3000/pic/pic_ssg3000.png",
+      "codename": "SSG3000"
+    },
+    {
+      "id": "274",
+      "name": "ACR",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/acr/pic/pic_acr.png",
+      "codename": "ACR"
+    },
+    {
+      "id": "275",
+      "name": "M1895 CB",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1895mg/pic/pic_m1895mg.png",
+      "codename": "M1895MG"
+    },
+    {
+      "id": "276",
+      "name": "Kord",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/kord/pic/pic_kord.png",
+      "codename": "Kord"
+    },
+    {
+      "id": "277",
+      "name": "VP70",
+      "star": "3",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/vp70/pic/pic_vp70.png",
+      "codename": "VP70"
+    },
+    {
+      "id": "278",
+      "name": "Six12",
+      "star": "3",
+      "guntype": "SG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/six12/pic/pic_six12.png",
+      "codename": "Six12"
+    },
+    {
+      "id": "279",
+      "name": "INSAS",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/insas/pic/pic_insas.png",
+      "codename": "INSAS"
+    },
+    {
+      "id": "280",
+      "name": "MAT-49",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mat49/pic/pic_mat49.png",
+      "codename": "MAT49"
+    },
+    {
+      "id": "281",
+      "name": "CAWS",
+      "star": "5",
+      "guntype": "SG",
+      "buildtime": "815",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/hkcaws/pic/pic_hkcaws.png",
+      "codename": "HKCAWS"
+    },
+    {
+      "id": "282",
+      "name": "DP-12",
+      "star": "5",
+      "guntype": "SG",
+      "buildtime": "813",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/dp12/pic/pic_dp12.png",
+      "codename": "DP12"
+    },
+    {
+      "id": "283",
+      "name": "리버레이터",
+      "star": "4",
+      "guntype": "SG",
+      "buildtime": "745",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/liberator/pic/pic_liberator.png",
+      "codename": "Liberator"
+    },
+    {
+      "id": "284",
+      "name": "Zas M76",
+      "star": "3",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/zasm76/pic/pic_zasm76.png",
+      "codename": "ZasM76"
+    },
+    {
+      "id": "285",
+      "name": "C-93",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "109",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/c93/pic/pic_c93.png",
+      "codename": "C93"
+    },
+    {
+      "id": "286",
+      "name": "KAC-PDW",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "220",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/kac/pic/pic_kac.png",
+      "codename": "KAC"
+    },
+    {
+      "id": "287",
+      "name": "SIG-556",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "356",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/sig556/pic/pic_sig556.png",
+      "codename": "SIG556"
+    },
+    {
+      "id": "288",
+      "name": "CR-21",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "335",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/cr21/pic/pic_cr21.png",
+      "codename": "CR21"
+    },
+    {
+      "id": "289",
+      "name": "R5",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/r5rgp/pic/pic_r5rgp.png",
+      "codename": "R5RGP"
+    },
+    {
+      "id": "290",
+      "name": "89식 소총",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "408",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/howatype89/pic/pic_howatype89.png",
+      "codename": "HowaType89"
+    },
+    {
+      "id": "291",
+      "name": "43M",
+      "star": "3",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/danuvia43m/pic/pic_danuvia43m.png",
+      "codename": "Danuvia43M"
+    },
+    {
+      "id": "292",
+      "name": "RPK-16",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "616",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/rpk16/pic/pic_rpk16.png",
+      "codename": "RPK16"
+    },
+    {
+      "id": "293",
+      "name": "AK-15",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "415",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ak15/pic/pic_ak15.png",
+      "codename": "AK15"
+    },
+    {
+      "id": "294",
+      "name": "웨블리 리볼버",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/webley/pic/pic_webley.png",
+      "codename": "Webley"
+    },
+    {
+      "id": "295",
+      "name": "CF05",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/06typesmg/pic/pic_06typesmg.png",
+      "codename": "06TypeSMG"
+    },
+    {
+      "id": "296",
+      "name": "SL8",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/sl8/pic/pic_sl8.png",
+      "codename": "SL8"
+    },
+    {
+      "id": "297",
+      "name": "M82",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m82/pic/pic_m82.png",
+      "codename": "M82"
+    },
+    {
+      "id": "298",
+      "name": "Vepr",
+      "star": "3",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/vepr/pic/pic_vepr.png",
+      "codename": "VEPR"
+    },
+    {
+      "id": "299",
+      "name": "HS10",
+      "star": "3",
+      "guntype": "SG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/hsm10/pic/pic_hsm10.png",
+      "codename": "HSM10"
+    },
+    {
+      "id": "300",
+      "name": "CAR",
+      "star": "3",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters//pic/pic_.png",
+      "codename": ""
+    },
+    {
+      "id": "303",
+      "name": "HP-35",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "135",
+      "imgurl": "https://LeeHyKu.github.io/girlsfrontline/characters/browninghp/pic/pic_browninghp.png",
+      "codename": "browninghp"
+    },
+    {
+      "id": "304",
+      "name": "SAF",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "210",
+      "imgurl": "https://LeeHyKu.github.io/girlsfrontline/characters/saf/pic/pic_saf.png",
+      "codename": "saf"
+    },
+    {
+      "id": "305",
+      "name": "타부크 저격소총",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "425",
+      "imgurl": "https://LeeHyKu.github.io/girlsfrontline/characters/tabuk/pic/pic_tabuk.png",
+      "codename": "tabuk"
+    },
+    {
+      "id": "306",
+      "name": "AK-Alfa",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "408",
+      "imgurl": "https://LeeHyKu.github.io/girlsfrontline/characters/akalfa/pic/pic_akalfa.png",
+      "codename": "akalfa"
+    },
+    {
+      "id": "307",
+      "name": "ZB-26",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "626",
+      "imgurl": "https://LeeHyKu.github.io/girlsfrontline/characters/zb26/pic/pic_zb26.png",
+      "codename": "zb26"
+    },
+    {
+      "id": "1001",
+      "name": "노엘",
+      "star": "1",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/bb_noel/pic/pic_bb_noel.png",
+      "codename": "BB_Noel"
+    },
+    {
+      "id": "1002",
+      "name": "엘펠트",
+      "star": "1",
+      "guntype": "SG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/gg_elfeldt/pic/pic_gg_elfeldt.png",
+      "codename": "GG_elfeldt"
+    },
+    {
+      "id": "1009",
+      "name": "클리어",
+      "star": "1",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/clear/pic/pic_clear.png",
+      "codename": "CLEAR"
+    },
+    {
+      "id": "1010",
+      "name": "페일",
+      "star": "1",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/fail/pic/pic_fail.png",
+      "codename": "FAIL"
+    },
+    {
+      "id": "1017",
+      "name": "질 스팅레이",
+      "star": "1",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/jill/pic/pic_jill.png",
+      "codename": "Jill"
+    },
+    {
+      "id": "1018",
+      "name": "세이 아사기리",
+      "star": "1",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/sei/pic/pic_sei.png",
+      "codename": "SEI"
+    },
+    {
+      "id": "1019",
+      "name": "도로시 헤이즈",
+      "star": "1",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/dorothy/pic/pic_dorothy.png",
+      "codename": "Dorothy"
+    },
+    {
+      "id": "1020",
+      "name": "스텔라 호시이",
+      "star": "1",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/stella/pic/pic_stella.png",
+      "codename": "Stella"
+    },
+    {
+      "id": "1021",
+      "name": "알마 알머스",
+      "star": "1",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/alma/pic/pic_alma.png",
+      "codename": "Alma"
+    },
+    {
+      "id": "1022",
+      "name": "다나 제인",
+      "star": "1",
+      "guntype": "SG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/dana/pic/pic_dana.png",
+      "codename": "Dana"
+    },
+    {
+      "id": "20001",
+      "name": "콜트 리볼버 개조",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1873mod/pic/pic_m1873mod.png",
+      "codename": "M1873Mod"
+    },
+    {
+      "id": "20002",
+      "name": "M1911 개조",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1911mod/pic/pic_m1911mod.png",
+      "codename": "M1911Mod"
+    },
+    {
+      "id": "20005",
+      "name": "나강 리볼버 개조",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1895mod/pic/pic_m1895mod.png",
+      "codename": "M1895Mod"
+    },
+    {
+      "id": "20007",
+      "name": "스테츠킨 개조",
+      "star": "5",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/apsmod/pic/pic_apsmod.png",
+      "codename": "APSMod"
+    },
+    {
+      "id": "20012",
+      "name": "C96 개조",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/c96mod/pic/pic_c96mod.png",
+      "codename": "C96Mod"
+    },
+    {
+      "id": "20026",
+      "name": "MP5 개조",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mp5mod/pic/pic_mp5mod.png",
+      "codename": "MP5Mod"
+    },
+    {
+      "id": "20029",
+      "name": "스텐MkⅡ 개조",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/stenmk2mod/pic/pic_stenmk2mod.png",
+      "codename": "StenMK2Mod"
+    },
+    {
+      "id": "20031",
+      "name": "베레타 38형 개조",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mab38mod/pic/pic_mab38mod.png",
+      "codename": "MAB38Mod"
+    },
+    {
+      "id": "20032",
+      "name": "마이크로 우지 개조",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/microuzimod/pic/pic_microuzimod.png",
+      "codename": "MicroUZIMod"
+    },
+    {
+      "id": "20037",
+      "name": "M14 개조",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m14mod/pic/pic_m14mod.png",
+      "codename": "M14Mod"
+    },
+    {
+      "id": "20039",
+      "name": "모신나강 개조",
+      "star": "5",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1891mod/pic/pic_m1891mod.png",
+      "codename": "M1891Mod"
+    },
+    {
+      "id": "20044",
+      "name": "SV-98 개조",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/sv98mod/pic/pic_sv98mod.png",
+      "codename": "SV98Mod"
+    },
+    {
+      "id": "20051",
+      "name": "FN-49 개조",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/fn49mod/pic/pic_fn49mod.png",
+      "codename": "FN49Mod"
+    },
+    {
+      "id": "20053",
+      "name": "NTW-20 개조",
+      "star": "6",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ntw20mod/pic/pic_ntw20mod.png",
+      "codename": "NTW20Mod"
+    },
+    {
+      "id": "20055",
+      "name": "M4A1 개조",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m4a1mod/pic/pic_m4a1mod.png",
+      "codename": "M4A1Mod"
+    },
+    {
+      "id": "20056",
+      "name": "M4 SOPMODII 개조",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m4%20sopmod%20iimod/pic/pic_m4%20sopmod%20iimod.png",
+      "codename": "M4 SOPMOD IIMod"
+    },
+    {
+      "id": "20057",
+      "name": "ST AR-15 개조",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ar15mod/pic/pic_ar15mod.png",
+      "codename": "AR15Mod"
+    },
+    {
+      "id": "20060",
+      "name": "AS Val 개조",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/asvalmod/pic/pic_asvalmod.png",
+      "codename": "ASVALMod"
+    },
+    {
+      "id": "20061",
+      "name": "StG44 개조",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/stg44mod/pic/pic_stg44mod.png",
+      "codename": "STG44Mod"
+    },
+    {
+      "id": "20063",
+      "name": "G3 개조",
+      "star": "4",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/g3mod/pic/pic_g3mod.png",
+      "codename": "G3Mod"
+    },
+    {
+      "id": "20064",
+      "name": "G36 개조",
+      "star": "5",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/g36mod/pic/pic_g36mod.png",
+      "codename": "G36Mod"
+    },
+    {
+      "id": "20065",
+      "name": "HK416 개조",
+      "star": "6",
+      "guntype": "AR",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/hk416mod/pic/pic_hk416mod.png",
+      "codename": "HK416Mod"
+    },
+    {
+      "id": "20075",
+      "name": "M1918 개조",
+      "star": "5",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/m1918mod/pic/pic_m1918mod.png",
+      "codename": "M1918Mod"
+    },
+    {
+      "id": "20081",
+      "name": "LWMMG 개조",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/lwmmgmod/pic/pic_lwmmgmod.png",
+      "codename": "LWMMGMod"
+    },
+    {
+      "id": "20089",
+      "name": "브렌 개조",
+      "star": "4",
+      "guntype": "MG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/brenmkmod/pic/pic_brenmkmod.png",
+      "codename": "BrenMKMod"
+    },
+    {
+      "id": "20091",
+      "name": "MP-446 개조",
+      "star": "4",
+      "guntype": "HG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/mp446mod/pic/pic_mp446mod.png",
+      "codename": "MP446Mod"
+    },
+    {
+      "id": "20093",
+      "name": "IDW 개조",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/idwmod/pic/pic_idwmod.png",
+      "codename": "IDWMod"
+    },
+    {
+      "id": "20094",
+      "name": "64식 개조",
+      "star": "4",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/64typemod/pic/pic_64typemod.png",
+      "codename": "64typeMod"
+    },
+    {
+      "id": "20095",
+      "name": "한양조 88식 개조",
+      "star": "4",
+      "guntype": "RF",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/88typemod/pic/pic_88typemod.png",
+      "codename": "88typeMod"
+    },
+    {
+      "id": "20101",
+      "name": "UMP9 개조",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ump9mod/pic/pic_ump9mod.png",
+      "codename": "UMP9Mod"
+    },
+    {
+      "id": "20103",
+      "name": "UMP45 개조",
+      "star": "5",
+      "guntype": "SMG",
+      "buildtime": "000",
+      "imgurl": "https://leehyku.github.io/girlsfrontline/characters/ump45mod/pic/pic_ump45mod.png",
+      "codename": "UMP45Mod"
+    }
+  ]
+}

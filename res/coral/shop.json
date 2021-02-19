@@ -1,0 +1,279 @@
+﻿[
+  {
+    "item": {
+      "name": "식칼",
+      "description": "그냥 식칼",
+      "type": "WEAPON",
+      "levelLimit": 5,
+      "durability": 30,
+      "attack": 130,
+      "penetration": 20,
+      "fatigue": 0.3
+    },
+    "price": 100000
+  },
+  {
+    "item": {
+      "name": "M9 총검",
+      "description": "미군의 제식 총검",
+      "type": "WEAPON",
+      "levelLimit": 10,
+      "durability": 60,
+      "attack": 160,
+      "penetration": 40,
+      "fatigue": 0.8
+    },
+    "price": 300000
+  },
+  {
+    "item": {
+      "name": "라가나 토마호크",
+      "description": "미군의 제식 전투도끼",
+      "type": "WEAPON",
+      "levelLimit": 30,
+      "durability": 100,
+      "attack": 300,
+      "penetration": 50,
+      "fatigue": 2
+    },
+    "price": 500000
+  },
+  {
+    "item": {
+      "name": "M1941 커틀러스",
+      "description": "미 해병대의 제식 커틀러스",
+      "type": "WEAPON",
+      "levelLimit": 50,
+      "durability": 400,
+      "attack": 700,
+      "penetration": 70,
+      "fatigue": 3
+    },
+    "price": 2000000
+  },
+  {
+    "item": {
+      "name": "K1",
+      "description": "대한민국 국군 제식 기관단총",
+      "type": "GUN",
+      "levelLimit": 30,
+      "durability": 240,
+      "attack": 100,
+      "penetration": 70,
+      "fatigue": 0.8,
+      "bulletType": "5.56",
+      "magazine": null
+    },
+    "price": 2000000
+  },
+  {
+    "item": {
+      "name": "K2",
+      "description": "대한민국 국군 제식 돌격소총",
+      "type": "GUN",
+      "levelLimit": 30,
+      "durability": 300,
+      "attack": 150,
+      "penetration": 100,
+      "fatigue": 1,
+      "bulletType": "5.56",
+      "magazine": null
+    },
+    "price": 2500000
+  },
+  {
+    "item": {
+      "name": "STANAG",
+      "description": "5.56x45mm NATO 표준 STANAG 탄창",
+      "type": "MAGAZINE",
+      "levelLimit": 30,
+      "bulletType": "5.56",
+      "amount": 30,
+      "attack": 140,
+      "penetration": 50,
+      "fatigue": 0
+    },
+    "price": 100000
+  },
+  {
+    "item": {
+      "name": "STANAG FMJ",
+      "description": "5.56x45mm NATO 표준 FMJ탄 STANAG 탄창",
+      "type": "MAGAZINE",
+      "levelLimit": 30,
+      "bulletType": "5.56",
+      "amount": 30,
+      "attack": 100,
+      "penetration": 200,
+      "fatigue": 0.1
+    },
+    "price": 150000
+  },
+  {
+    "item": {
+      "name": "K5",
+      "description": "대한민국 국군 제식 권총",
+      "type": "GUN",
+      "levelLimit": 10,
+      "durability": 60,
+      "attack": 120,
+      "penetration": 40,
+      "fatigue": 0.5,
+      "bulletType": "9",
+      "magazine": null
+    },
+    "price": 1000000
+  },
+  {
+    "item": {
+      "name": "파라벨럼",
+      "description": "9x19mm NATO 표준 탄창",
+      "type": "MAGAZINE",
+      "levelLimit": 10,
+      "bulletType": "9",
+      "amount": 10,
+      "attack": 50,
+      "penetration": 30,
+      "fatigue": 0
+    },
+    "price": 90000
+  },
+  {
+    "item": {
+      "name": "K6",
+      "description": "어캐들었누",
+      "type": "GUN",
+      "levelLimit": 50,
+      "durability": 1000,
+      "attack": 500,
+      "penetration": 500,
+      "fatigue": 5,
+      "bulletType": "12.7",
+      "magazine": null
+    },
+    "price": 100000000
+  },
+  {
+    "item": {
+      "name": ".50 BMG 탄띠",
+      "description": "맞으면 사라짐",
+      "type": "MAGAZINE",
+      "levelLimit": 50,
+      "bulletType": "12.7",
+      "amount": 200,
+      "attack": 2000,
+      "penetration": 1000,
+      "fatigue": 3
+    },
+    "price": 10000000
+  },
+  {
+    "item": {
+      "name": "방검복",
+      "description": "NIJ 1 인증을 받은 방검복",
+      "type": "ARMOR",
+      "levelLimit": 1,
+      "durability": 60,
+      "defence": 60
+    },
+    "price": 200000
+  },
+  {
+    "item": {
+      "name": "개량방검복",
+      "description": "NIJ 2 인증을 받은 방검복",
+      "type": "ARMOR",
+      "levelLimit": 8,
+      "durability": 100,
+      "defence": 100
+    },
+    "price": 500000
+  },
+  {
+    "item": {
+      "name": "방탄복",
+      "description": "칼도 막을 수 있다",
+      "type": "ARMOR",
+      "levelLimit": 25,
+      "durability": 150,
+      "defence": 170
+    },
+    "price": 1000000
+  },
+  {
+    "item": {
+      "name": "드래곤 스킨",
+      "description": "특수 제작된 방탄복. 매우 튼튼하다.",
+      "type": "ARMOR",
+      "levelLimit": 50,
+      "durability": 200,
+      "defence": 300
+    },
+    "price": 2000000
+  },
+  {
+    "item": {
+      "name": "붕대",
+      "description": "평범한 붕대. 체력을 회복해준다.",
+      "type": "HEALPOTION",
+      "heal": 500
+    },
+    "price": 1000
+  },
+  {
+    "item": {
+      "name": "메디킷",
+      "description": "평범한 구급상자. 체력을 회복해준다.",
+      "type": "HEALPOTION",
+      "heal": 1000
+    },
+    "price": 10000
+  },
+  {
+    "item": {
+      "name": "CMS",
+      "description": "응급수술키트. 전문적인 지식이 있어야 사용할 수 있다.",
+      "levelLimit": 20,
+      "type": "HEALPOTION",
+      "heal": 3000
+    },
+    "price": 100000
+  },
+  {
+    "item": {
+      "name": "진통제",
+      "description": "이부프로펜 알약. 전투중에 사용하면 공격력을 상승시켜준다.",
+      "type": "ATKPOTION",
+      "atk": 200
+    },
+    "price": 100000
+  },
+  {
+    "item": {
+      "name": "모르핀",
+      "description": "모르핀 주사기. 전투중에 사용하면 공격력을 상승시켜준다.",
+      "type": "ATKPOTION",
+      "atk": 300
+    },
+    "price": 100000
+  },
+  {
+    "item": {
+      "name": "아드레날린",
+      "description": "아드레날린 주사기. 전투중에 사용하면 공격력을 상승시켜준다.",
+      "levelLimit": 30,
+      "type": "ATKPOTION",
+      "atk": 400
+    },
+    "price": 200000
+  },
+  {
+    "item": {
+      "name": "체력강화제",
+      "description": "체력을 영구적으로 200 늘려준다.",
+      "type": "CUSTOM",
+      "action": "status.MaxHP += 200; chat.replyText('체력이 상승했다');"
+    },
+    "price": 1500000
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "kbcore",
+  "version": "0.7.3",
+  "description": "Deploy repo, Kakaotalk bot, Universal, Node.js(TS3) \"Ch'en\"",
+  "main": "app.js",
+  "license": "GPL-v3.0",
+  "author": {
+    "name": "LeeHyKu",
+    "email": "harry9111@naver.com",
+    "url": "https://github.com/LeeHyKu/Altiora-Chen-Kakao"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.22",
+    "@types/bson": "^4.0.2",
+    "@types/inquirer": "^6.5.0",
+    "@types/jsonfile": "^6.0.0",
+    "@types/node-fetch": "^2.5.7",
+    "@types/node-schedule": "^1.3.0"
+  },
+  "dependencies": {
+    "@storycraft/node-kakao": "github:storycraft/node-kakao",
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.1",
+    "jsonfile": "^6.0.1",
+    "node-fetch": "^2.6.0",
+    "node-schedule": "^1.3.2"
+  }
+}

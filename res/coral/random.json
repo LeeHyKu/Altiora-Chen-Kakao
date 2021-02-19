@@ -1,0 +1,36 @@
+﻿[
+  {
+    "name": "TEST",
+    "description": "TEST RB",
+    "levelLimit": 2,
+    "items": [
+      {
+        "item": {
+          "name": "STANAG",
+          "description": "5.56x45mm NATO 표준 STANAG 탄창",
+          "type": "MAGAZINE",
+          "bulletType": "5.56mm NATO",
+          "amount": 30,
+          "attack": 140,
+          "penetration": 100,
+          "fatigue": 0
+        },
+        "rare": 1
+      },
+      {
+        "item": {
+          "name": "STANAG FMJ",
+          "description": "5.56x45mm NATO 표준 FMJ탄 STANAG 탄창",
+          "type": "MAGAZINE",
+          "bulletType": "5.56mm NATO",
+          "amount": 30,
+          "attack": 120,
+          "penetration": 140,
+          "fatigue": 0.5
+        },
+        "rare": 1
+      }
+    ],
+    "price": 10000
+  }
+]
