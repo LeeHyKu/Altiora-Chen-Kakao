@@ -1,5 +1,5 @@
 {
-  "name": "kbcore",
+  "name": "Ch'en",
   "version": "0.7.3",
   "description": "Deploy repo, Kakaotalk bot, Universal, Node.js(TS3) \"Ch'en\"",
   "main": "app.js",
@@ -18,7 +18,7 @@
     "@types/node-schedule": "^1.3.0"
   },
   "dependencies": {
-    "@storycraft/node-kakao": "github:storycraft/node-kakao",
+    "node-kakao": "~3.1.10",
     "chalk": "^4.1.0",
     "inquirer": "^7.3.1",
     "jsonfile": "^6.0.1",
